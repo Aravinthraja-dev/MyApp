@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'blog',
     'corsheaders',
     'dynamicForm',
+    'manufacturing',
+    'configurations',
     'rest_framework'
 ]
 
