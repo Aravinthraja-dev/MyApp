@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'dynamicForm',
     'manufacturing',
     'configurations',
+    'mixDesign',
     'rest_framework'
 ]
 
